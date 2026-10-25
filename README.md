@@ -1,5 +1,8 @@
 # 💫 About Me:
-From Ukraine, Odesa | 📍 Based in Prague, Czech Republic  <br>🎓 3rd-year Applied Informatics student at CTU in Prague  <br><br>🌱 **Currently learning:** Python, SQL, and Bash  <br>🔭 **Currently working on:** Data analytics projects & open-source contributions  <br>👯 **Looking to collaborate on:** Open Source projects in Python and Data Analytics
+From Ukraine, Odesa | 📍 Based in Prague, Czech Republic  <br>🎓 3rd-year Applied Informatics student at CTU in Prague  <br><br>🌱 **Currently learning:** Python, SQL, and Bash  <br>🔭 **Currently working on:** Data analytics projects & open-source contributions  <br>👯 **Looking to collaborate on:** Open Source projects in Python and Data Analytics <br>
+🤝 **Support Ukraine:**
+
+[![Donate to Come Back Alive](https://img.shields.io/badge/Donate-Come%20Back%20Alive-yellow?style=for-the-badge&logo=ukraine&logoColor=blue)](https://savelife.in.ua/donate/)
 
 
 ## 🌐 Socials:
